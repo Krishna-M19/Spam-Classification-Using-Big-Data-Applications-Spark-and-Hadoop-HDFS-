@@ -1,8 +1,8 @@
 # Spam Classification Using Big Data Applications (Spark and Hadoop HDFS)
 
 
-- Developed a scalable SMS spam detection pipeline leveraging Hadoop HDFS for distributed data storage and Apache Spark for fast, in-memory distributed processing. Utilized text preprocessing techniques including NLTK, CountVectorizer, and TF-IDF within Spark.
-- Trained and evaluated multiple machine learning models (Naive Bayes, Random Forest, XGBoost, SVM, Logistic Regression) using PySpark MLlib, achieving up to 98% accuracy and 99% recall. Achieved approximately 60% performance improvement by using Spark’s distributed computation over traditional MapReduce jobs running on HDFS.
+- Developed a scalable SMS spam detection pipeline leveraging Hadoop HDFS for distributed data storage and Apache Spark for fast, in-memory distributed processing by connecting 10 Linux VMs. Utilized text preprocessing techniques including NLTK, CountVectorizer, and TF-IDF within Spark.
+- Trained and evaluated multiple machine learning models (Naive Bayes, Random Forest, XGBoost, SVM, Logistic Regression) using PySpark MLlib, achieving up to 98% accuracy and 99% recall. Achieved approx. 60% performance improvement by using Spark’s distributed computation over traditional MapReduce jobs running on HDFS.
 
 
 
